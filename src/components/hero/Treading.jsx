@@ -1,5 +1,8 @@
 import React from "react";
 import {Title} from "../common/Title";
+import Slider from "react-slick";
+import {Card_lg} from "../common/Card_lg";
+import {treading} from "../assets/data/data";
 
 
 export const Treading = () => {
@@ -27,11 +30,18 @@ export const Treading = () => {
         ],
     }
 
-
     return (
         <section className='treading hero'>
             <Title title='Treading' />
-
+            <Slider {...settings}>
+                {treading.map((item, i) => (
+                    <div className='box card hero m-5' key={i}>
+                        <div className='mr-5'>
+                            <Card_lg cover={item.cover} name={item.name} tag={item.tag} />
+                        </div>
+                    </div>
+                ))}
+            </Slider>
         </section>
     )
 }

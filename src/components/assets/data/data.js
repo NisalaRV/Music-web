@@ -46,12 +46,14 @@ export const hero2 = [
         name: "Mama",
         tag: "Jonas Blue",
         cover: "../images/b22.png",
+
     },
     {
         id: 2,
         name: "Mia",
         tag: "Bad Bunny+Drake",
         cover: "../images/b22.jpg",
+
     },
     {
         id: 3,
@@ -98,5 +100,71 @@ export const recommand = [
         tag: "romaine willis",
         cover: "../images/d5.jpg",
     },
+    {
+        id: 6,
+        name: "Body 2 body",
+        tag: "romaine willis",
+        cover: "../images/d5.jpg",
+    },
+    {
+        id: 7,
+        name: "Body 2 body",
+        tag: "romaine willis",
+        cover: "../images/d5.jpg",
+    }, {
+        id: 8,
+        name: "Body 2 body",
+        tag: "romaine willis",
+        cover: "../images/d5.jpg",
+    }, {
+        id: 9,
+        name: "Body 2 body",
+        tag: "romaine willis",
+        cover: "../images/d5.jpg",
+    }, {
+        id: 10,
+        name: "Body 2 Body",
+        tag: "romaine willis",
+        cover: "../images/d5.jpg",
+    },
 
+]
+
+export const treading = [
+    {
+        id: 1,
+        name: "Heat Waves ",
+        tag: "Glass Animals ",
+        cover: "../images/t1.jpg",
+    },
+    {
+        id: 2,
+        name: "Calm Down",
+        tag: "Rema & Selena Gomez’s",
+        cover: "../images/t2.jpg",
+    },
+    {
+        id: 3,
+        name: "Levitating",
+        tag: "Dua Lipa",
+        cover: "../images/t3.webp",
+    },
+    {
+        id: 4,
+        name: "Havana",
+        tag: "Camila Cabello",
+        cover: "../images/t4.jpg",
+    },
+    {
+        id: 5,
+        name: "Heeriye",
+        tag: "Jasleen Royal",
+        cover: "../images/t5.jpg",
+    },
+    {
+        id: 6,
+        name: "Body 2 Body",
+        tag: "romaine willis",
+        cover: "../images/d5.jpg",
+    },
 ]
