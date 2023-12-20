@@ -168,3 +168,53 @@ export const treading = [
         cover: "../images/d5.jpg",
     },
 ]
+export const news = [
+    {
+        id: 1,
+        name: "I'm Good (Blue)",
+        tag: "David Guetta & Bebe Rexha",
+        cover: "../images/new/n1.webp",
+    },
+    {
+        id: 2,
+        name: "Flowers",
+        tag: "Miley Cyrus",
+        cover: "../images/new/n1.jpg",
+    },
+    {
+        id: 3,
+        name: "Shivers ",
+        tag: "Ed Sheeran",
+        cover: "../images/new/n6.webp",
+    },
+    {
+        id: 4,
+        name: "bad guy",
+        tag: "Billie Eilish",
+        cover: "../images/new/n3.webp",
+    },
+    {
+        id: 5,
+        name: "Let Me Down Slowly ",
+        tag: "Alec Benjamin",
+        cover: "../images/new/n4.jpeg",
+    },
+    {
+        id: 6,
+        name: "Die For You ",
+        tag: " The Weeknd  ",
+        cover: "../images/new/n5.jpeg",
+    },
+    {
+        id: 7,
+        name: "10,000 Hours ",
+        tag: "Dan + Shay, Justin Bieber",
+        cover: "../images/new/n7.webp",
+    },
+    {
+        id: 8,
+        name: "Unstoppable",
+        tag: "Sia",
+        cover: "../images/new/n2.jpeg",
+    },
+]

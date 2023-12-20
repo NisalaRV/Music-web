@@ -1,5 +1,5 @@
 import React from "react"
-import {Hero, LayOutSidebar, Treading} from "../router";
+import {Hero, LayOutSidebar, New, Treading} from "../router";
 
 export const Home = () => {
     return (
@@ -7,6 +7,7 @@ export const Home = () => {
             <Hero />
             <LayOutSidebar>
                 <Treading />
+                <New/>
             </LayOutSidebar>
 
         </>
