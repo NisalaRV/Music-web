@@ -1,3 +1,5 @@
+export {Recommand} from "./components/hero/Recommand";
+
 export {New} from "./components/hero/New";
 
 export { Header } from "./components/header/Header"
