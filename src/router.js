@@ -1,3 +1,6 @@
+export {Browser} from "./pages/Browser";
+export {Browse} from "./components/browse/Browse";
+
 export {Recommand} from "./components/hero/Recommand";
 
 export {New} from "./components/hero/New";
@@ -8,5 +11,6 @@ export {Treading} from "./components/hero/Treading";
 export { Hero } from "./components/hero/Hero"
 export { Home } from "./pages/Home"
 export {Layout} from "./components/layout/Layout";
+
 
 

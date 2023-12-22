@@ -1,6 +1,6 @@
 
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
-import {Home, Layout} from "./router";
+import {Browser, Home, Layout} from "./router";
 
 
 function App() {
@@ -18,6 +18,16 @@ function App() {
                         }
                     >
                     </Route>
+                    <Route
+                    path='/browser'
+                    element={
+                        <Layout>
+                            <Browser/>
+
+                        </Layout>
+                    }
+                >
+                </Route>
                 </Routes>
             </Router>
         </>

@@ -11,13 +11,18 @@ export const navBar = [
     },
     {
         id: 3,
-        name: "Charts",
-        path: "/charts",
+        name: "Artists",
+        path: "/artists",
     },
     {
         id: 4,
-        name: "Artists",
-        path: "/artists",
+        name: "Playlists",
+        path: "/playlists",
+    },
+    {
+        id: 4,
+        name: " Album",
+        path: "/ album",
     },
 ]
 export const hero1 = [
@@ -216,5 +221,107 @@ export const news = [
         name: "Unstoppable",
         tag: "Sia",
         cover: "../images/new/n2.jpeg",
+    },
+]
+
+export const browse =[
+    {
+        id: 1,
+        name: "Dance The Night",
+        tag: "Dua Lipa",
+        cover: "../images/browse/br1.jpg",
+    },
+    {
+        id: 2,
+        name: "Flowers",
+        tag: "Ed Sheeran",
+        cover: "../images/browse/br2.jpg",
+    },
+    {
+        id: 3,
+        name: "Rockabye",
+        tag: "Anne-Marie",
+        cover: "../images/browse/br3.webp",
+    },
+    {
+        id: 4,
+        name: "Kings & Queens",
+        tag: "Ava Max",
+        cover: "../images/browse/br4.jpg",
+    },
+    {
+        id: 5,
+        name: "Dusk Till Dawn",
+        tag: "AZayn",
+        cover: "../images/browse/br5.jpg",
+    },
+    {
+        id: 6,
+        name: "Marina ",
+        tag: " Sarith and Surith  ",
+        cover: "../images/browse/br6.webp",
+    },
+    {
+        id: 7,
+        name: "Mathakayan Obe",
+        tag: "Chamara Weerasinghe",
+        cover: "../images/browse/br7.webp",
+    },
+    {
+        id: 8,
+        name: "Numba Hata Man",
+        tag: "Sanuka",
+        cover: "../images/browse/br8.jpg",
+    },
+    {
+        id: 1,
+        name: "Mama",
+        tag: "Jonas Blue",
+        cover: "../images/b22.png",
+
+    },
+    {
+        id: 2,
+        name: "Mia",
+        tag: "Bad Bunny+Drake",
+        cover: "../images/b22.jpg",
+
+    },
+    {
+        id: 3,
+        name: "Good For You",
+        tag: "Selena Gomez",
+        cover: "../images/b3.webp",
+    },
+    {
+        id: 4,
+        name: "What Do You Mean",
+        tag: "Justin Bieber",
+        cover: "../images/b4.jpg",
+    },
+    {
+        id: 1,
+        name: "Heat Waves ",
+        tag: "Glass Animals ",
+        cover: "../images/t1.jpg",
+    },
+    {
+        id: 2,
+        name: "Calm Down",
+        tag: "Rema & Selena Gomez’s",
+        cover: "../images/t2.jpg",
+    },
+    {
+        id: 3,
+        name: "Levitating",
+        tag: "Dua Lipa",
+        cover: "../images/t3.webp",
+    },
+
+    {
+        id: 5,
+        name: "Heeriye",
+        tag: "Jasleen Royal",
+        cover: "../images/t5.jpg",
     },
 ]
