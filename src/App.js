@@ -1,6 +1,6 @@
 
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
-import {Browser, Home, Layout} from "./router";
+import {Artist, Artists, Browser, Home, Layout} from "./router";
 
 
 function App() {
@@ -28,6 +28,16 @@ function App() {
                     }
                 >
                 </Route>
+                    <Route
+                        path='/artist'
+                        element={
+                            <Layout>
+                                <Artist/>
+
+                            </Layout>
+                        }
+                    >
+                    </Route>
                 </Routes>
             </Router>
         </>

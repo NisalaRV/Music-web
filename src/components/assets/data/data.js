@@ -12,7 +12,7 @@ export const navBar = [
     {
         id: 3,
         name: "Artists",
-        path: "/artists",
+        path: "/artist",
     },
     {
         id: 4,
@@ -323,5 +323,129 @@ export const browse =[
         name: "Heeriye",
         tag: "Jasleen Royal",
         cover: "../images/t5.jpg",
+    },
+]
+
+export const Artist =[
+
+    {
+        id: 1,
+        name: "Ariana Grande",
+        tag: " Artist",
+        cover: "../images/artist/a1.jpeg",
+    },
+    {
+        id: 2,
+        name: "Arijit Singh",
+        tag: " Artist",
+        cover: "../images/artist/a2.jpeg",
+    },
+    {
+        id: 3,
+        name: "Alec Benjamin",
+        tag: " Artist",
+        cover: "../images/artist/a4.webp",
+    },
+    {
+        id: 4,
+        name: "Alan Walker ",
+        tag: " Artist",
+        cover: "../images/artist/a3.jpeg",
+    },
+    {
+        id: 5,
+        name: "Billie Eilish ",
+        tag: " Artist",
+        cover: "../images/artist/a5.webp",
+    },
+    {
+        id: 6,
+        name: "BLACKPINK ",
+        tag: " Artist",
+        cover: "../images/artist/a6.jpg",
+    },
+    {
+        id: 7,
+        name: "BTS ",
+        tag: " Artist",
+        cover: "../images/artist/a7.webp",
+    },
+    {
+        id: 8,
+        name: "Bad Bunny ",
+        tag: " Artist",
+        cover: "../images/artist/a8.webp",
+    },
+    {
+        id: 9,
+        name: "Charlie Puth ",
+        tag: " Artist",
+        cover: "../images/artist/a9.webp",
+    },
+    {
+        id: 10,
+        name: "Charitha Attalage ",
+        tag: " Artist",
+        cover: "../images/artist/a10.jpg",
+    },
+    {
+        id: 11,
+        name: "CENTIGRADZ ",
+        tag: " Artist",
+        cover: "../images/artist/a11.jpeg",
+    },
+    {
+        id: 12,
+        name: "Chanuka Mora ",
+        tag: " Artist",
+        cover: "../images/artist/a12.jpg",
+    },
+    {
+        id: 13,
+        name: "Dua Lipa ",
+        tag: " Artist",
+        cover: "../images/artist/a13.jpg",
+    },
+    {
+        id: 14,
+        name: "Dinesh Gamage ",
+        tag: " Artist",
+        cover: "../images/artist/a14.png",
+    },
+    {
+        id: 15,
+        name: "Daddy Yankee ",
+        tag: " Artist",
+        cover: "../images/artist/a15.webp",
+    },
+    {
+        id: 16,
+        name: "Dj Snake ",
+        tag: " Artist",
+        cover: "../images/artist/a16.jpg",
+    },
+    {
+        id: 17,
+        name: "Ed Sheeran ",
+        tag: " Artist",
+        cover: "../images/artist/a17.webp",
+    },
+    {
+        id: 18,
+        name: "Eminem ",
+        tag: " Artist",
+        cover: "../images/artist/a18.jpg",
+    },
+    {
+        id: 19,
+        name: "Hana Shafa ",
+        tag: " Artist",
+        cover: "../images/artist/a19.jpg",
+    },
+    {
+        id: 20,
+        name: "Iraj ",
+        tag: " Artist",
+        cover: "../images/artist/a20.jpeg",
     },
 ]

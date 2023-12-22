@@ -1,3 +1,7 @@
+export {Artist} from "./pages/Artis";
+
+export {Artists} from "./components/artist/Artists";
+
 export {Browser} from "./pages/Browser";
 export {Browse} from "./components/browse/Browse";
 
@@ -11,6 +15,7 @@ export {Treading} from "./components/hero/Treading";
 export { Hero } from "./components/hero/Hero"
 export { Home } from "./pages/Home"
 export {Layout} from "./components/layout/Layout";
+
 
 
 
