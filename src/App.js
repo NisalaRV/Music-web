@@ -1,6 +1,6 @@
 
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
-import {Artist, Artists, Browser, Home, Layout} from "./router";
+import {Artist, Browser, Charts, Home, Layout,} from "./router";
 
 
 function App() {
@@ -33,6 +33,16 @@ function App() {
                         element={
                             <Layout>
                                 <Artist/>
+
+                            </Layout>
+                        }
+                    >
+                    </Route>
+                    <Route
+                        path='/Playlists'
+                        element={
+                            <Layout>
+                                <Charts />
 
                             </Layout>
                         }

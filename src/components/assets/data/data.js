@@ -17,7 +17,7 @@ export const navBar = [
     {
         id: 4,
         name: "Playlists",
-        path: "/playlists",
+        path: "/Playlists",
     },
     {
         id: 4,
