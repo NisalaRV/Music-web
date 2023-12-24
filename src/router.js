@@ -20,4 +20,7 @@ export {Layout} from "./components/layout/Layout";
 export {Charts} from "./pages/Charts";
 export {Chart} from "./components/charts/Chart";
 
+export {Albums} from "./pages/Albums";
+export {Album} from "./components/album/Album";
+
 

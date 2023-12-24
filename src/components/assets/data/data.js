@@ -22,7 +22,7 @@ export const navBar = [
     {
         id: 4,
         name: " Album",
-        path: "/ album",
+        path: "/album",
     },
 ]
 export const hero1 = [
@@ -447,5 +447,100 @@ export const Artist =[
         name: "Iraj ",
         tag: " Artist",
         cover: "../images/artist/a20.jpeg",
+    },
+]
+export const album =[
+    {
+        id: 1,
+        name: "Broken Promises",
+        tag: "Justin Bieber",
+        cover: "../images/album/aa1.png",
+    },
+    {
+        id: 2,
+        name: "Charlie",
+        tag: "Charlie Puth",
+        cover: "../images/album/aa2.jpeg",
+    },
+    {
+        id: 3,
+        name: "Aloke",
+        tag: "Iraj",
+        cover: "../images/album/aa3.jpg",
+    },
+    {
+        id: 4,
+        name: "Gold Pharoah",
+        tag: "Zayn",
+        cover: "../images/album/aa4.jpg",
+    },
+    {
+        id: 5,
+        name: "SUNFM HOT 40",
+        tag: "SunFm",
+        cover: "../images/browse/br5.jpg",
+    },
+    {
+        id: 6,
+        name: "Dooset Daram ",
+        tag: " Arash ",
+        cover: "../images/album/aa5.jpg",
+    },
+    {
+        id: 7,
+        name: "GUTS",
+        tag: "Olivia Rodrigo",
+        cover: "../images/album/aa6.jpeg",
+    },
+    {
+        id: 8,
+        name: "Sithin Witharak",
+        tag: "Chamara Weerasinghe",
+        cover: "../images/album/aa7.jpg",
+    },
+    {
+        id: 1,
+        name: "Blue",
+        tag: "Jonas Blue",
+        cover: "../images/album/aa8.jpg",
+
+    },
+    {
+        id: 2,
+        name: "Christmas",
+        tag: "Cher,2023",
+        cover: "../images/album/aa9.png",
+
+    },
+    {
+        id: 3,
+        name: "Christmas Wish",
+        tag: "Gregory Porter",
+        cover: "../images/album/aa12.jpeg",
+    },
+    {
+        id: 1,
+        name: "Heat Waves ",
+        tag: "Glass Animals ",
+        cover: "../images/t1.jpg",
+    },
+    {
+        id: 2,
+        name: "Single Soon",
+        tag: "Selena Gomez,2023",
+        cover: "../images/album/aa10.png",
+    },
+    {
+        id: 3,
+        name: "Bhool Jaa",
+        tag: "Arijit Singh, 2023",
+        cover: "../images/album/aa11.jpeg",
+    },
+
+    {
+        id: 5,
+        name: "Heeriye",
+        tag: "Jasleen Royal",
+        cover: "../images/t5.jpg",
     },
 ]

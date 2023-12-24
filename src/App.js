@@ -1,6 +1,7 @@
 
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
-import {Artist, Browser, Charts, Home, Layout,} from "./router";
+import {Albums, Artist, Browser, Charts, Home, Layout,} from "./router";
+
 
 
 function App() {
@@ -43,6 +44,16 @@ function App() {
                         element={
                             <Layout>
                                 <Charts />
+
+                            </Layout>
+                        }
+                    >
+                    </Route>
+                    <Route
+                        path='/album'
+                        element={
+                            <Layout>
+                                <Albums />
 
                             </Layout>
                         }
